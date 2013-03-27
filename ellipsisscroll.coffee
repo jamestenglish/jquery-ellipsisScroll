@@ -1,3 +1,7 @@
+###
+    EllipsisScroll - v1.0 
+    Copyright (c) 2013 James English; Licensed MIT */
+###
 (($, window, document) ->
     pluginName = "ellipsisScroll"
     defaults =

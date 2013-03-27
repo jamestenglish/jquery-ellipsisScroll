@@ -28,4 +28,4 @@ A running example can be found here: http://jsfiddle.net/jamestenglish/kTgWW/
 
 ## License
 
-This plugin is dual licensed under the MIT and GPL licenses, just like jQuery itself.
+This plugin is licensed under the MIT license
